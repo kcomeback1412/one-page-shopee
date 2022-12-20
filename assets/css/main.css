@@ -34,14 +34,14 @@
 }
 
 
-.header__navbar-item, 
+.header__navbar-item,
 .header__navbar-item-link {
   display: inline-block;
   font-size: 1.4rem;
   color: var(--while-color);
   text-decoration: none;
-  font-weight: 400;
   line-height: 26px;
+  font-weight: 400;
 }
 
 .header__navbar-item:hover, 
