@@ -1257,6 +1257,7 @@
 .footer-policy-item {
   text-decoration: none;
   text-transform: uppercase;  
+  color: var(--text-color);
   padding: 0 24px;
   font-weight: 400;
 }
